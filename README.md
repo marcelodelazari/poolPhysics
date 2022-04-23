@@ -1,4 +1,4 @@
-# PoolGame
+# PoolPhysics
 Prototype of a Pool game using realistic physics by integrating Pygame and Pymunk frameworks.
 Not a full game.
 
