@@ -1,0 +1,12 @@
+cffi==1.15.0
+pycparser==2.21
+pygame==2.1.2
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+pymunk==6.2.1
+pyperclip==1.8.2
+pypiwin32==223
+PyRect==0.2.0
+PyScreeze==0.1.28
+pytweening==1.0.4
+pywin32==303
